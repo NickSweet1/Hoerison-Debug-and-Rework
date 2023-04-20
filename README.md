@@ -18,6 +18,8 @@ Please make sure to update tests as appropriate.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
+## Credits
+https://github.com/JoshuaVaneps
 
 ![Screenshot of the website](https://user-images.githubusercontent.com/111986248/233256244-e2511d2b-6934-4836-a400-46c91285043e.png)
+
