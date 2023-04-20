@@ -20,4 +20,4 @@ Please make sure to update tests as appropriate.
 
 
 
-![2023-04-20 (1)](https://user-images.githubusercontent.com/111986248/233256244-e2511d2b-6934-4836-a400-46c91285043e.png)
+![Screenshot of the website](https://user-images.githubusercontent.com/111986248/233256244-e2511d2b-6934-4836-a400-46c91285043e.png)
