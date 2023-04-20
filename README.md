@@ -8,7 +8,6 @@ it is now a descriptive title for the webpage. I've added alt attributes to all 
 
 
 ## Contributing
-![2023-04-20 (1)](https://user-images.githubusercontent.com/111986248/233256230-b3713f78-4cb0-4acd-9d52-4261d52bf03f.png)
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
